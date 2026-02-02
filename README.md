@@ -1,4 +1,4 @@
-# Csharp-annotations
+# CSharp-Annotations
 This repository is dedicated to understanding and practicing **C# annotations (attributes)**.  
 It focuses on how attributes are defined, applied, and accessed using **Reflection**, starting from basic built-in attributes to advanced custom attribute–based designs.
 
